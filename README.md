@@ -1,5 +1,7 @@
 # Fashion Portfolio Landing Page
 
+https://github.com/user-attachments/assets/0080643c-b1d0-4024-99ea-d4920a6ed8bb
+
 This is a fashion portfolio landing page created using HTML, CSS, and CSS Grid/Flexbox for layout management. The project showcases the design skills and fashion works in a visually appealing and responsive manner.
 
 ## Features
